@@ -1,4 +1,4 @@
-# CNX Case Study – Improving Customer Experience at TelCo Inc.
+# Case Study – Improving Customer Experience at TelCo Inc.
 
 This project looks at customer service data from TelCo Inc., a telecom company dealing with low customer satisfaction and a high number of support calls.
 
